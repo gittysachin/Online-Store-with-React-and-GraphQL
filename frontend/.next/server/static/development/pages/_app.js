@@ -109,7 +109,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -209,7 +209,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Meta.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Meta.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -284,7 +284,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _styles_NavStyles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles/NavStyles */ "./components/styles/NavStyles.js");
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Nav.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Nav.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -295,82 +295,82 @@ const Nav = () => __jsx(_styles_NavStyles__WEBPACK_IMPORTED_MODULE_2__["default"
   __source: {
     fileName: _jsxFileName,
     lineNumber: 5,
-    columnNumber: 5
+    columnNumber: 3
   }
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "items",
+  href: "/items",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 6,
-    columnNumber: 9
+    columnNumber: 5
   }
 }, __jsx("a", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7,
-    columnNumber: 13
+    columnNumber: 7
   }
 }, "Shop")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "sell",
+  href: "/sell",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9,
-    columnNumber: 9
+    columnNumber: 5
   }
 }, __jsx("a", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 10,
-    columnNumber: 13
+    columnNumber: 7
   }
 }, "Sell")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "signup",
+  href: "/signup",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12,
-    columnNumber: 9
+    columnNumber: 5
   }
 }, __jsx("a", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 13,
-    columnNumber: 13
+    columnNumber: 7
   }
 }, "Signup")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "orders",
+  href: "/orders",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 15,
-    columnNumber: 9
+    columnNumber: 5
   }
 }, __jsx("a", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 16,
-    columnNumber: 13
+    columnNumber: 7
   }
 }, "Orders")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "me",
+  href: "/me",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 18,
-    columnNumber: 9
+    columnNumber: 5
   }
 }, __jsx("a", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 19,
-    columnNumber: 13
+    columnNumber: 7
   }
 }, "Account")));
 
@@ -393,7 +393,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
 /* harmony import */ var _components_Meta__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Meta */ "./components/Meta.js");
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Page.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Page.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -2683,7 +2683,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-apollo */ "react-apollo");
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_apollo__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _lib_withData__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../lib/withData */ "./lib/withData.js");
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 

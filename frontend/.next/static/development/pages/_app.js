@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.browser.esm.js");
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Header.js";
+    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Header.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -126,7 +126,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Meta.js";
+    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Meta.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -205,7 +205,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _styles_NavStyles__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles/NavStyles */ "./components/styles/NavStyles.js");
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Nav.js";
+    _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Nav.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -218,82 +218,82 @@ var Nav = function Nav() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5,
-      columnNumber: 5
+      columnNumber: 3
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "items",
+    href: "/items",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
-      columnNumber: 9
+      columnNumber: 5
     }
   }, __jsx("a", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7,
-      columnNumber: 13
+      columnNumber: 7
     }
   }, "Shop")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "sell",
+    href: "/sell",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9,
-      columnNumber: 9
+      columnNumber: 5
     }
   }, __jsx("a", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10,
-      columnNumber: 13
+      columnNumber: 7
     }
   }, "Sell")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "signup",
+    href: "/signup",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12,
-      columnNumber: 9
+      columnNumber: 5
     }
   }, __jsx("a", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13,
-      columnNumber: 13
+      columnNumber: 7
     }
   }, "Signup")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "orders",
+    href: "/orders",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15,
-      columnNumber: 9
+      columnNumber: 5
     }
   }, __jsx("a", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16,
-      columnNumber: 13
+      columnNumber: 7
     }
   }, "Orders")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "me",
+    href: "/me",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
-      columnNumber: 9
+      columnNumber: 5
     }
   }, __jsx("a", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
-      columnNumber: 13
+      columnNumber: 7
     }
   }, "Account")));
 };
@@ -328,7 +328,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\components\\Page.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\components\\Page.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 function _createSuper(Derived) { return function () { var Super = Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, result); }; }
@@ -26357,7 +26357,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\sick-fits\\frontend\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\sachi\\OneDrive\\Desktop\\Codes\\NODE JS\\WESBOS\\Advanced-React-Sachin\\frontend\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
@@ -26465,7 +26465,7 @@ var MyApp = /*#__PURE__*/function (_App) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
-module.exports = __webpack_require__(/*! C:\Users\sachi\OneDrive\Desktop\Codes\NODE JS\WESBOS\Advanced-React-Sachin\sick-fits\frontend\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! C:\Users\sachi\OneDrive\Desktop\Codes\NODE JS\WESBOS\Advanced-React-Sachin\frontend\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ }),
