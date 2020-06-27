@@ -1,3 +1,6 @@
+const bcrypt = require('bcryptjs');
+const { SingleFieldSubscriptionsRule } = require('graphql/validation');
+
 const Mutations = {
   async createItem(parent, args, ctx, info) {
     // TODO: Check if they are logged in
@@ -39,6 +42,32 @@ const Mutations = {
     // TODO
     // 3. Delete it!
     return ctx.db.mutation.deleteItem({ where }, info);
+  },
+  async signup(parent, args, ctx, info) {
+    // lowercase their email
+    args.email = args.email.toLowerCase();
+    // hash their passwords
+    const password = await bcrypt.hash(args.password, 10);
+    // create the user in the databse
+    const user = await ctx.db.mutation.createUser(
+      {
+        data: {
+          ...args,
+          password,
+          permissions: { set: ['USER'] }
+        }
+      },
+      info
+    );
+    // create the jwt token for them
+    const token = jwt.sign({ userId: user.id }, process.env.APP_SECRET);
+    // we set the jwt as the cookie on the response
+    ctx.response.cookie('token', token, {
+      httpOnyl: true,
+      maxAge: 1000 * 60 * 60 * 24 * 365 // 1 year cookie
+    });
+    // finalllllly we return the user to the browser
+    return user;
   }
 };
 
