@@ -26,7 +26,7 @@ const CREATE_ITEM_MUTATION = gql`
   }
 `;
 
-export default class CreateItems extends Component {
+export default class CreateItem extends Component {
   constructor() {
     super();
     this.handleChange = this.handleChange.bind(this);
