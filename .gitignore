@@ -5,3 +5,5 @@ node_modules/
 *.lock.json
 
 .next/
+
+variables.env
