@@ -8,7 +8,6 @@ import Cart from './Cart';
 Router.onRouteChangeStart = () => {
   NProgress.start();
 };
-
 Router.onRouteChangeComplete = () => {
   NProgress.done();
 };
@@ -50,7 +49,7 @@ const StyledHeader = styled.header`
   }
   .sub-bar {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr auto;
     border-bottom: 1px solid ${props => props.theme.lightgrey};
   }
 `;
