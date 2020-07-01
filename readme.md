@@ -7,3 +7,5 @@ The application has five main models — Users, Items, Orders, CartItems, and Or
 The app also includes many server side bits including JWT authentication, permissions, sending email, uploading images, and charging credit cards.
 
 https://sickfits-next-prod-sachin.herokuapp.com/
+
+React hooks and some updates to the GraphQL ecosystem will be available soon.
